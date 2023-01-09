@@ -1,0 +1,29 @@
+header {
+  background-color: #70a48b;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
+a:link {
+  color: #1f211c;
+  background-color: silver;
+  text-decoration: none;
+}
+a:active {
+  color: #1f211c;
+  background-color: silver;
+  text-decoration: none;
+}
+a:hover {
+  color: #1f211c;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #1f211c;
+  background-color: silver;
+  text-decoration: none;
+}
+footer {
+  background-color: #70a48b;
+}
